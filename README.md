@@ -195,44 +195,6 @@ DAX (Data Analysis Expressions)
 
 Visualização de Dados
 
-📂 Estrutura do Repositório
-production-dashboard-powerbi
-│
-├── dashboard.pbix
-├── dataset/
-│   └── production_data.xlsx
-│
-├── images/
-│   └── dashboard-preview.png
-│
-└── README.md
-🚀 Como Utilizar
-
-Clone o repositório
-
-git clone https://github.com/seu-usuario/production-dashboard-powerbi
-
-Abra o arquivo no Power BI Desktop
-
-dashboard.pbix
-
-Atualize a fonte de dados caso necessário.
-
-📊 Possíveis Melhorias
-
-Algumas melhorias futuras para o projeto:
-
-Adicionar indicador de OEE
-
-Criar análise por turno
-
-Implementar alertas de queda de produção
-
-Dashboard comparativo ano vs ano
-
-Integração com banco de dados SQL
-
-
 👨‍💻 Autor
 
 David Cavalcante
