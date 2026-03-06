@@ -2,7 +2,7 @@
 
 📷 Preview
 
-![Dashboard](imagemdashboard.png)
+![Dashboard](ImagemDashboardProdução.png)
 
 📌 Sobre o Projeto
 
@@ -238,5 +238,5 @@ David Cavalcante
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/davidcavalcante)
 
-Para mais detalhes, visite o [projeto original]([http://bit.ly/45UUGES](https://app.powerbi.com/view?r=eyJrIjoiMjA2ZTVmZWUtODkxNi00NmIwLTgxODktNGNlZGFjMjIxMDQ1IiwidCI6IjM5YWFhMmI1LWIzOWQtNDdhZS1iY2I0LThhMzdiM2QzODYyMCJ9
-)).
+Para mais detalhes, visite o [projeto original](https://app.powerbi.com/view?r=eyJrIjoiMjA2ZTVmZWUtODkxNi00NmIwLTgxODktNGNlZGFjMjIxMDQ1IiwidCI6IjM5YWFhMmI1LWIzOWQtNDdhZS1iY2I0LThhMzdiM2QzODYyMCJ9).
+
