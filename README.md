@@ -2,10 +2,10 @@
 
 📷 Preview
 
-![Dashboard]()<img width="1441" height="805" alt="Imagem Dashboard Produção" src="https://github.com/user-attachments/assets/6a277f61-05e6-4547-a71e-d61e4d0a9445" />
+<img width="1441" height="805" alt="Imagem Dashboard Produção" src="https://github.com/user-attachments/assets/6a277f61-05e6-4547-a71e-d61e4d0a9445" />
 
 
-📌 Sobre o Projeto
+## 📌 Sobre o Projeto
 
 Este projeto apresenta um Dashboard de Produção desenvolvido em Power BI, criado para monitorar e analisar indicadores essenciais de desempenho operacional.
 
