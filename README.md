@@ -185,7 +185,7 @@ níveis de qualidade do processo
 
 tendências de produtividade ao longo do ano
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 Power BI
 
@@ -195,11 +195,11 @@ DAX (Data Analysis Expressions)
 
 Visualização de Dados
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 David Cavalcante
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/davidcavalcante)
 
-Para mais detalhes, visite o [projeto original](https://app.powerbi.com/view?r=eyJrIjoiMjA2ZTVmZWUtODkxNi00NmIwLTgxODktNGNlZGFjMjIxMDQ1IiwidCI6IjM5YWFhMmI1LWIzOWQtNDdhZS1iY2I0LThhMzdiM2QzODYyMCJ9).
+## visite o [projeto original](https://app.powerbi.com/view?r=eyJrIjoiMjA2ZTVmZWUtODkxNi00NmIwLTgxODktNGNlZGFjMjIxMDQ1IiwidCI6IjM5YWFhMmI1LWIzOWQtNDdhZS1iY2I0LThhMzdiM2QzODYyMCJ9).
 
